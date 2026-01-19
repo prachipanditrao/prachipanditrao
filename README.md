@@ -52,6 +52,11 @@ Built custom MCP servers leveraging Generative AI to automate code reviews.
 * **Tech:** Python, Gen AI Models, Large Language Models (LLMs)
 
 ---
+## 🏆 LeetCode Badges
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=code_human&theme=dark&no-bg=true&no-frame=true)
+
+---
 
 ## 📈 GitHub Stats
 
