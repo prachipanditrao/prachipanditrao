@@ -2,6 +2,8 @@
 
 ### Senior Software Engineer | Full Stack Developer | FinTech Specialist
 
+[![View Portfolio](https://img.shields.io/badge/View_My_Portfolio-prachipanditrao.github.io-blue?style=for-the-badge)](https://prachipanditrao.github.io)
+
 I am a Full Stack Developer with **7+ years of experience** building scalable, secure, and high-performance systems in the FinTech domain. Currently, I am a **Senior Software Engineer at Mastercard**, focusing on AI-driven automation, microservices, and modern UI architectures.
 
 - 🔭 **I’m currently working on:** Generative AI models for merchant identification and custom MCP servers for automated code reviews.
